@@ -1,5 +1,5 @@
 {
-    "name": "cogitatio/sparkline",
+    "name": "cogitatio/sparkerline",
     "type": "library",
     "description": "Generating sparkline SVGs",
     "keywords": ["sparkline","svg"],
